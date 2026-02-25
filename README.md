@@ -11,6 +11,9 @@ Webová prezentace zahraniční rešerše **Centra veřejných financí FSV UK**
 Web je postaven jako informační a vzdělávací zdroj pro analytiky, úředníky a odbornou veřejnost se zájmem o reformu řízení veřejných financí.
 
 ---
+## Odkaz na web
+
+https://petrjakubec.github.io/CVF_web/
 
 ## Obsah webu
 
